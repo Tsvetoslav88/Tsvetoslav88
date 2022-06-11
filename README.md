@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 <!--
+### GitHub Stats
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
 **Tsvetoslav88/Tsvetoslav88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
