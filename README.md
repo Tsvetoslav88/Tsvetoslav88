@@ -4,7 +4,7 @@ My name is _Tsvetoslav Tsvetkov_. I am from Sofia, Bulgaria.
 
 I started my IT career journey in 2011. During this time I was been able to work on a pretty huge range of projects which involve different technology where I had opportunities to work with different people with different expertise. I had also been part of different companies from small companies (less than 50 people) to huge companies (thousands of people), most of them developing their products.
 
-<!-- hobby, Technology-->
+<!-- hobby, Technology, like to learn a new thing and develop myself, also to share my knowledge -->
 
 <!--
 **Tsvetoslav88/Tsvetoslav88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
