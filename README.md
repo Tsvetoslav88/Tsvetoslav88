@@ -2,7 +2,10 @@
 
 My name is _Tsvetoslav Tsvetkov_. I am from Sofia, Bulgaria. 
 
-I started my IT career journey in 2011. During this time I was been able to work on a pretty huge range of projects which involve different technology where I had opportunities to work with different people with different expertise. I had also been part of different companies from small companies (less than 50 people) to huge companies (thousands of people), most of them developing their products.
+I started my IT professional career journey in 2011. During this period I had been part of different companies with different size - from small companies (less than 50 people) to huge companies (thousands of people), most of them developing their own products. So I had oportunities for some of them to participate in the whole products lifecycle - from the architectural design to actual implmentation and shiping in the Production environemnt. 
+
+I am a pretty enthusiastic person and love to learn new things or gain deeper knowledge in a particular area that motivates me no-stop to read some technical books or blogs. I also love to share my knowledge with other people, my moto is _"The only way to improve your coding skills is to share your knowledge and help others ☝️"_ which is one of the reasons to deploy and share some of the topics I am learning or interested in it on GitHub. Last but not least I am part of the top 10% of people with top ranks from Bulgaria in StackOverflow
+
 
 <!-- My personal qualities are: Fast learning, responsibility, commitment to tasks given to me, communication skills.->
 
@@ -21,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsvetoslav88)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### GitHub Stats
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&exclude_repo=java-8-lambdas-exercises" /></div>
